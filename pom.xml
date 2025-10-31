@@ -44,7 +44,7 @@
     <snapshotRepository>
         <id>nexus-snapshots</id>
         <name>Nexus Snapshot Repository</name>
-        <url>http://13.200.14.158:8081/repository/manoj/</url>
+        <url>http://13.200.14.158:8081/repository/kumarrr/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
